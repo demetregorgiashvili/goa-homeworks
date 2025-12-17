@@ -1,0 +1,1 @@
+#"for" gvwirdeba ragaceebis bevrjer daweristvis , rom ar davakopirot.

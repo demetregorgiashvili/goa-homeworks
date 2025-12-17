@@ -1,0 +1,22 @@
+div {
+    height: 100px;
+    width: 100px;
+    border-color: black;
+    border-left: 7px;
+    border-top: 10px;
+    border-right: 5px;
+    border-bottom: 15px;
+    border-left-style:dotted;
+    border-bottom-style:double;
+    border-bottom-style:none;
+    border-bottom-style:dashed;
+    border-color: blue;
+    background-color: coral;
+}
+
+p {
+    padding-left: 35px;
+    padding-top:35px ;
+    padding-right:35px;
+    padding-bottom: 35px;
+}

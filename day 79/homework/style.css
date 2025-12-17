@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f4f4f4;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, auto);
+    grid-template-areas:
+        "item iteme itemw itemt"
+        "itemf itemd itemb itemn"
+        "itemj itema itemv itemq"
+        "name name name name";
+    gap: 10px;
+    width: 80%;
+    max-width: 900px;
+    border: 2px solid #000;
+    padding: 20px;
+    background-color: white;
+}
+
+.item {
+    border: 1px solid #000;
+    height: 100px;
+    width: 100%;
+}
+
+.item  { grid-area: item; }
+.iteme { grid-area: iteme; }
+.itemw { grid-area: itemw; }
+.itemt { grid-area: itemt; }
+.itemf { grid-area: itemf; }
+.itemd { grid-area: itemd; }
+.itemb  { grid-area: itemb; }
+.itemn  { grid-area: itemn; }
+.itemj  { grid-area: itemj; }
+.itema  { grid-area: itema; }
+.itemv  { grid-area: itemv; }
+.itemq  { grid-area: itemq; }
+
+.name {
+    grid-area: name;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    border-top: 2px solid #000;
+    font-weight: bold;
+}

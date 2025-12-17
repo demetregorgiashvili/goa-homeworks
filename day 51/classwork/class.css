@@ -1,0 +1,19 @@
+#a {
+    text-decoration:wavy;
+}
+
+#b {
+    text-transform: uppercase;
+}
+
+#c {
+    text-shadow: 5px 5px 10px #463a69;
+}
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+HU:wght@100..400&display=swap');
+
+#d {
+  font-family:; }

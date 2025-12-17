@@ -1,0 +1,1 @@
+#mas roca 1 arg gadaeema ubralos sityvas imdenjer ityvis, 2 arg ze aris dawyeba da dasruleba anu miutiteb saidan daiwyos da sad damtavrdes,mesames emateba step romelic amatebs imdens ramdensac ginda

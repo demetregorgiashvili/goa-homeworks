@@ -1,0 +1,44 @@
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(87, 87, 87);
+}
+
+div {
+    padding: 50 px;
+    background-color:grey;
+    height: 400px;
+    width: 250px;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    width: 150px;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+h2 {
+    padding-left: 85px;
+}
+
+h3 {
+    padding-left: 50px;
+}

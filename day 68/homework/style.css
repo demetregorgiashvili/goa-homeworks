@@ -1,0 +1,30 @@
+div {
+    height: 100;
+    width: 100;
+    background-color: black;
+}
+
+#1 {
+    position: static;
+    right: 50px;
+}
+
+#2 {
+    position: relative;
+    left: 50px;
+
+}
+
+#3{
+    position: absolute;
+    top: 50px;
+}
+
+#4 {
+    position: fixed;
+    bottom: 50px;
+}
+
+#5 {
+    bottom:50px;
+}

@@ -1,0 +1,52 @@
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+h4 {
+    color: gray;
+    display: flex;
+    justify-content: center;
+}
+
+
+.but1 {
+    margin-left: 75vh;
+    margin-right: 30px;
+    background-color: aqua;
+    color: white;
+}
+
+.but2 {
+    background-color: cornflowerblue;
+    color: white;
+}
+
+button {
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    width: 200px;
+    border-style:groove;
+}
+
+
+.div {
+    margin-top: 200px;
+
+}
+
+
+.img {
+    display: inline;
+    margin-bottom: 300px;
+}
+
+
+
+.img-last {
+    margin: 100px;
+}
+
+

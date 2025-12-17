@@ -1,0 +1,50 @@
+div {
+    height: 410px;
+    width: 620px;
+    display: grid;
+    grid-template-areas: "f s a" "e g b";
+    gap:10px
+
+}
+
+.a{
+    height: 200px;
+    width: 200px;
+    background-color: gray;
+    grid-area: a;
+}
+
+.b{
+    height: 200px;
+    width: 200px;
+    background-color: gray;
+    grid-area: b;
+}
+
+.f{
+    height: 200px;
+    width: 200px;
+    background-color: gray;
+    grid-area: f;
+}
+
+.s{
+    height: 200px;
+    width: 200px;
+    background-color: gray;
+    grid-area: s;
+}
+
+.e{
+    height: 200px;
+    width: 200px;
+    background-color: gray;
+    grid-area: e;
+}
+
+.g{
+    height: 200px;
+    width: 200px;
+    background-color: gray;
+    grid-area: g;
+}

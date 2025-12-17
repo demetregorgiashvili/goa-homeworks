@@ -1,0 +1,1 @@
+#sequence aris mimdevroba da selection aris archeva

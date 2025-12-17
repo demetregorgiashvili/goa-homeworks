@@ -1,0 +1,11 @@
+ol {
+    list-style-type: circle;
+}
+
+ul {
+    list-style-position: outside;
+}
+
+.oil {
+    list-style-image: url(./image4.jpg);
+}

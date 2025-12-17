@@ -1,0 +1,26 @@
+#aa {
+    height: 400px;
+    width: 700px;
+    display: flex;
+    justify-items: end;
+    align-items: center;
+    background-size: 200px, 300px;
+    background-size:cover;
+    background-image: url("https://cdn.discordapp.com/attachments/1390310185104445603/1438941414149984296/image.png?ex=6918b61f&is=6917649f&hm=5a0767347c1f4724d570436630040d78ad5478bfcc347ab72c13692be403f5ba&");
+}
+
+#dd {
+    height: 10px;
+    padding-left: 500px;
+}
+
+#cc {
+    height: 10px;
+}
+
+div {
+    background-image: url("https://cdn.discordapp.com/attachments/1390310185104445603/1438940400499949608/image.png?ex=69195ded&is=69180c6d&hm=ff2c2c5bd1570bdb010dd96b2d91da6a4cf2c4ef9a50d952685279c5e6386b57&");
+    background-size: contain;
+    height: 980px;
+    width: 700px;
+}

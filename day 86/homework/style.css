@@ -1,0 +1,21 @@
+body {
+    background-color: blue;
+    height: 100vh;
+}
+
+div {
+    background-color: rgb(255, 255, 255);
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    animation: ball 2s linear infinite;
+}
+
+@keyframes ball {
+    from {
+        transform: translateX(-200px);
+    }
+    to {
+        transform: translateX(200px);
+    }
+}

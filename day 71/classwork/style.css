@@ -1,0 +1,64 @@
+
+body {
+    background-color: rgb(161, 126, 65);
+}
+
+div {
+    display: flex;
+    height: 300px;
+    width: 500px;
+}
+
+#a {
+    background-image: url("./image1.jpg");
+    height: 300px;
+    width: 500px;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+}
+
+#b {
+    background-image: url("./image4.jpg");
+    height: 300px;
+    width: 500px;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+}
+
+#c {
+    background-image: url("./image3.jpg");
+    height: 300px;
+    width: 500px;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+}
+
+#d {
+    background-image: url("./tbilisi.jpg");
+    height: 300px;
+    width: 500px;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+}
+
+#e {
+    background-image: url("./image2.jpg");
+    height: 300px;
+    width: 500px;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+}
+
+#f {
+    background-image: url("./image5.jpg");
+    height: 300px;
+    width: 500px;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+}

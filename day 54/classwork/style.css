@@ -1,0 +1,23 @@
+#1 {
+    list-style-type:georgian;
+}
+
+#2{
+    list-style-position: inside;
+}
+
+ol {
+    list-style-image: 'idk what to type';
+}
+
+ul {
+    list-style-type: square;
+    list-style-position: inside;
+    list-style-image: 'idk what to type';
+}
+
+
+input {
+    color: gray;
+    background-color: black;
+}

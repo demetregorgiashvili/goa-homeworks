@@ -1,0 +1,27 @@
+.div {
+    background-color: black;
+    height: 100px;
+    width: 100;
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+
+
+.did {
+    background-color: black;
+    height: 100px;
+    width: 100;
+    position: absolute;
+    top: 230px;
+    right: 140px;
+}
+
+.vid {
+    background-color: black;
+    height: 50px;
+    width: 50;
+    position: fixed;
+    top: 50px;
+    left: 50px;
+}

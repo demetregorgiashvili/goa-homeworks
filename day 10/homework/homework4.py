@@ -1,0 +1,6 @@
+name=input("ჩაწერე შენი სახელი : ")
+surname=input("ჩაწერე შენი გვარი : ")
+age=input("ჩაწერე შენი ასაკი : ")
+hight=input("ჩაწერე შენი სიმაღლე : ")
+wgeit=input("ჩაწერე შენი წონა : ")
+print("hello im ", name, surname, "my age is", age, "also my hight is", hight, "and i weight", wgeit)

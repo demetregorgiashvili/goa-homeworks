@@ -1,0 +1,43 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.735);
+}
+
+div {
+    height: 500px;
+    width: 250px;
+    border-radius: 15px;
+    border: 1px;
+    border-color: black;
+    color: rgb(127, 127, 127);
+}
+
+#divv {
+    height: 510px;
+    width: 260px;
+    border-radius: 25px;
+    border: 1px;
+    border-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+i {
+    padding-left: 50vh;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+button {
+
+    background-color: orange;
+    height: 25px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

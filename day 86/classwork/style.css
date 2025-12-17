@@ -1,0 +1,28 @@
+div {
+    height: 200px;
+    width: 250px;
+    color: darkorchid;
+    background-image: url('https://blog.theodo.com/_astro/loading.B44B3yEv_2hO2H0.webp');
+    background-size:contain;
+}
+
+h1 {
+    height: 100px;
+    width: 100px;
+}
+
+div:hover{
+    transform: rotate(360deg) ;
+    cursor: pointer;
+    animation: spin 1.5s linear infinite;
+}
+
+@keyframes spin {
+    0%{
+        transform: rotate(0deg);
+    }
+
+    100%{
+        transform: rotate(360deg);
+    }
+}

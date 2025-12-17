@@ -1,0 +1,43 @@
+* {
+    display: grid ;
+    grid-template-areas: "a b" "c d" "c e";
+}
+
+#e , #b , #c , #d {
+    background-color: gray;
+    border: 1px black;
+    border-radius: 1px;
+    gap: 10px;
+}
+
+#a {
+    grid-area: a;
+    background-color: white;
+    height: 50px;
+    width: 200px;
+}
+ 
+#b {
+    grid-area: b;
+    height: 100px;
+    width: 400px;
+}
+
+#c {
+    grid-area: c;
+    height: 410px;
+    width: 200px;
+}
+
+#d {
+    grid-area: d;
+    min-height: 300px;
+    width: 400;
+}
+
+#e {
+    grid-area: e;
+    margin-top: 10px;
+    height: 100px;
+    width: 400px;
+}

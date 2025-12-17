@@ -1,0 +1,1 @@
+#html aris concxi saitis,is zogjer gamoiyeneba teqstis dasawerat

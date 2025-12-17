@@ -1,0 +1,33 @@
+header {
+    position: fixed;
+    color: rgb(174, 2, 154);
+    background-color: white;
+    width: 210vh;
+    height: 100px;
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+#2 {
+    position: fixed;
+    left: 3000px;
+    top: 3000px;
+}
+
+button {
+    color:white;
+    background-color: blueviolet;
+    border-radius: 30px;
+    height: 70px;
+    width: 150px;
+}
+
+div {
+    height: 300px;
+    width: 300px;
+    background-color: blue;
+    border: black;
+}
+
+
+

@@ -1,0 +1,97 @@
+
+body{
+    height: 100vh;
+    width:100vw;
+    display: flex;
+    background-color: rgb(188, 207, 218);
+}
+
+div{
+    background-color: white;
+    height: 500px;
+    width: 700px;
+    margin-top: 20vh;
+    margin-left: 29vw;
+    border-radius: 30px;
+}
+
+
+#first {
+    display: inline;
+    margin: 0px;
+    padding: 0px;
+    border-radius: 30px;
+    background-color: rgb(43, 55, 226);
+    height: 500px;
+    width: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+#secend {
+    display: inline;
+    margin: 0px;
+    padding: 0px;
+    border-radius: 30px;
+    background-color: rgb(255, 255, 255);
+    height: 500px;
+    width: 350px;
+    
+
+}
+
+#ball {
+    background-color: rgb(63, 46, 212);
+    margin: 0px;
+    padding: 0px;
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#H {
+    position: absolute;
+    left: 580px;
+    top: 300px;
+}
+
+#Hi {
+    position: absolute;
+    left: 610px;
+    top: 480px;
+}
+
+#He {
+    position: absolute;
+    left: 550px;
+    top: 550px;
+}
+
+#HA {
+    position: absolute;
+    left: 940px;
+    top: 300px;
+}
+
+h2 {
+    position: absolute;
+    left: 940px;
+    top: 400px;
+}
+
+button {
+    position: absolute;
+    left: 940px;
+    top: 600px;
+    height: 50px;
+    width: 200px;
+    border-radius: 25px;
+    background-color: rgb(30, 30, 105);
+    color: white;
+}

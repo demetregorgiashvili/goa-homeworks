@@ -1,0 +1,1 @@
+#binary aris 1-it da 0-it dawerili kodi
