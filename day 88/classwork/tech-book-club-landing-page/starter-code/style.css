@@ -1,0 +1,104 @@
+
+#TheDiv {
+    background-image: url(./assets/images/pattern-light-bg.svg);
+    height: 96vh;
+    width: 99vw;
+}
+
+#img {
+    height: 400px;
+    display: inline;
+    margin-left: 100px;
+    position: absolute;
+    right: 100px;
+    top: 50px;
+}
+
+#imgi {
+    margin-left: 50px;
+}
+
+#h1 {
+    display: inline;
+    display: flex;
+    margin-left: 50px;
+    margin-top: 50px;
+    color: linear-gradient(308deg,rgba(0, 0, 0, 1) 38%, rgba(242, 166, 0, 1) 100%);
+}
+
+H5 {
+    display: inline;
+    display: flex;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+button {
+    display: inline;
+    display: flex;
+    margin-left: 50px;
+    margin-top: 50px;
+    background-color: white;
+    border-radius: 5px;
+    color:black;
+    height: 30px;
+    width: 210px;
+}
+
+#HasToBeTogether {
+    display: inline;
+    display: flex;
+    margin-left: 50px;
+    height: 50px;
+    width: 130px;
+}
+
+#HasToBeTogethere {
+    display: inline;
+    display: flex;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    left: 200px;
+    top: 385px;
+}
+
+#HasToBeTogetherer {
+    display: inline;
+    display: flex;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    left: 250px;
+    top: 385px;
+}
+
+#HasToBeTogetherere {
+    display: inline;
+    display: flex;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    left: 300px;
+    top: 385px;
+}
+
+#HasToBeTogethererer {
+    display: inline;
+    display: flex;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    left: 350px;
+    top: 385px;
+}
+
+#HasToBeTogethererere {
+    display: inline;
+    display: flex;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    left: 400px;
+    top: 385px;
+}
