@@ -1,0 +1,88 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.507);
+    height: 130px;
+    display: flex;
+}
+
+body {
+    background-color: rgb(44, 56, 46);
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+#GOA {
+    color: rgba(255, 255, 255, 0.692);
+    font-size: 100px;
+    margin-left: 50px;
+    margin-top: 0;
+}
+
+a {
+    color: rgb(171, 177, 231);
+    margin-left: 20px;
+    font-size: xx-large;
+}
+
+#aTag {
+    position: absolute;
+    top: 40px;
+    right: 50px;
+}
+
+h1 {
+    color: white;
+    display: inline;
+    position: absolute;
+    font-size: 65px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.footer {
+    background-color: rgba(0, 0, 0, 0.75);
+    margin-top: 80px;
+    padding: 40px 20px;
+    color: white;
+}
+
+.footer-content {
+    max-width: 1200px;
+    margin: auto;
+    text-align: center;
+}
+
+.footer-logo {
+    font-size: 40px;
+    margin-bottom: 20px;
+    color: rgba(255, 255, 255, 0.85);
+}
+
+.footer-links {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin-bottom: 25px;
+}
+
+.footer-links a {
+    color: rgb(171, 177, 231);
+    font-size: 20px;
+    text-decoration: none;
+}
+.footer-copy {
+    font-size: 14px;
+}
+
+img {
+    height: 500px;
+    margin-left: 50px;
+    display: inline;
+    border-radius: 50px;
+    margin-top: 20px;
+}

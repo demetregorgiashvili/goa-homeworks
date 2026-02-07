@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    width: 100%;
+    background-image: url("https://img.freepik.com/free-vector/matrix-style-binary-code-digital-background-with-falling-numbers_1017-25336.jpg?semt=ais_user_personalization&w=740&q=80");
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+}
+
+div {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 40px 20px;
+    width: 90%;
+    max-width: 700px;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input, button {
+    width: 100%;
+    max-width: 500px;
+    margin-top: 20px;
+    padding: 15px;
+    font-size: 1.2rem;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+}
+
+input {
+    box-shadow: 0 0 10px darkolivegreen;
+}
+
+button {
+    cursor: pointer;
+    background-color: darkolivegreen;
+    color: white;
+    font-weight: bold;
+    transition: transform 0.2s;
+}
+
+button:hover {
+    transform: scale(1.05);
+}
+
+#date {
+    height: 55px;
+}
+
+#aa {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#a {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+@media (max-width: 600px) {
+    input, button {
+        font-size: 1rem;
+        padding: 12px;
+    }
+
+    div {
+        padding: 30px 15px;
+        border-radius: 20px;
+    }
+}
+
+.a {
+    margin: 0px;
+}
